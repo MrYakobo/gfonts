@@ -8,10 +8,6 @@ The table below shows where fonts are placed by default.
 |----------------------|:---------------:|:----------------------:|
 | ~/.local/share/fonts | ~/Library/fonts |      $HOME/gfonts      |
 
-# Try it
-
-`curl -L git.io/gfonts | python3`
-
 # Install it
 
 ```bash
