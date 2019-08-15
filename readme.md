@@ -8,7 +8,6 @@ The table below shows where fonts are placed by default.
 |----------------------|:---------------:|:----------------------:|
 | ~/.local/share/fonts | ~/Library/fonts |      $HOME/gfonts      |
 
-
 # Try it
 
 `curl -L git.io/gfonts | python3`
@@ -18,6 +17,5 @@ The table below shows where fonts are placed by default.
 ```bash
 curl -L git.io/gfonts > ~/bin/gfonts
 chmod +x ~/bin/gfonts
+gfonts
 ```
-
-Then run `gfonts`
